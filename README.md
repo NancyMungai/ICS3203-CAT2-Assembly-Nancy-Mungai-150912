@@ -2,7 +2,7 @@
 ## TASKS
 
  This repository contains four assembly programs including control flow, array manipulation, modular subroutines, and port-based simulation. 
- - Note I wrote the code for a 32-bit Linux environment and used int 0x80 for system calls.
+ - Note: I wrote the code for a 32-bit Linux environment and used int 0x80 for system calls.
 
 ## Task 1: Control Flow and Conditional Logic
 ## Brief Overview
